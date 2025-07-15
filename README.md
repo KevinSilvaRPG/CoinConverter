@@ -32,18 +32,6 @@ As principais funcionalidades e conceitos aplicados incluem:
 * ✅ **Reutilizável e Escalável:** Estrutura de código que permite adicionar facilmente novas moedas ou funcionalidades.
 
 
-## 💻 Como Rodar o Projeto
-
-1.  **Clone o repositório:**
-    ```bash
-    git clone [https://github.com/KevinSilvaRPG/CoinConverter.git](https://github.com/KevinSilvaRPG/CoinConverter.git)
-    ```
-2.  **Navegue até o diretório do projeto:**
-    ```bash
-    cd CoinConverter
-    ```
-3.  **Abra o arquivo `index.html`** no seu navegador preferido.
-
 ## 💡 Próximas Etapas e Melhorias Futuras
 
 * Adicionar mais opções de moedas para conversão.
